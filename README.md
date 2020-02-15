@@ -1,1 +1,1 @@
-![img](/termi.png)
+![img](/mini-terminal.gif)
